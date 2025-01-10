@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://triptales-dot.onrender.com/listings](https://triptales-dot.onrender.com/listings)
 
-- 📫 How to reach me **sarthakankshawebjvb@gmail.com**
+- 📫 Reach me at [sarthakankshawebjvb@gmail.com](mailto:sarthakankshawebjvb@gmail.com)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cBsA14sWGSyOpcIth40sTbYKuiCT3eqE/view?usp=drive_link](https://drive.google.com/file/d/1cBsA14sWGSyOpcIth40sTbYKuiCT3eqE/view?usp=drive_link)
 
