@@ -33,5 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak03dot&show_icons=true&locale=en" alt="sarthak03dot" /></p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak03dot&theme=tokyonight&hide_border=true" alt="sarthak03dot's GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak03dot&theme=tokyonight&hide_border=true" alt="sarthak03dot's GitHub Streak Stats" />
 </p>
