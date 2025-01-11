@@ -35,3 +35,5 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak03dot&theme=tokyonight&hide_border=true" alt="sarthak03dot's GitHub Streak Stats" />
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak03dot&" alt="sarthak03dot" /></p>
