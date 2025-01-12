@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dynamic Typing Effect</title>
+  <style>
+    body {
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1, h3 {
+      font-size: 2.5rem;
+    }
+  </style>
+</head>
+<body>
+  <h1 id="greeting" class="typing"></h1>
+  <h3 id="role" class="typing"></h3>
+
+  <script>
+    function typeText(elementId, text, speed) {
+      let i = 0;
+      const element = document.getElementById(elementId);
+      element.innerHTML = "";
+
+      function typing() {
+        if (i < text.length) {
+          element.innerHTML += text.charAt(i);
+          i++;
+          setTimeout(typing, speed);
+        }
+      }
+
+      typing();
+    }
+    typeText("greeting", greeting, 100); 
+    setTimeout(() => {
+        typeText("greeting", "Hi, I'm Sarthak Singh", 100);
+      }, 0);  
+    setTimeout(() => {
+      typeText("role", "MERN Stack Developer. . .", 100);
+    }, 2000); 
+  </script>
+</body>
+</html>
