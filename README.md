@@ -1,34 +1,5 @@
-# Hi 👋, I'm Sarthak Singh
-### MERN Stack Developer
-
-This dynamic greeting adjusts based on the time of day! Here's how it works:
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dynamic Greeting</title>
-</head>
-<body>
-  <h1 id="greeting">Hi 👋, I'm Sarthak Singh</h1>
-  <h3 id="role">MERN Stack Developer</h3>
-
-  <script>
-    const currentHour = new Date().getHours();
-    let greeting;
-    if (currentHour < 12) {
-      greeting = "Good Morning 🌅, I'm Sarthak Singh";
-    } else if (currentHour < 18) {
-      greeting = "Good Afternoon ☀️, I'm Sarthak Singh";
-    } else {
-      greeting = "Good Evening 🌙, I'm Sarthak Singh";
-    }
-    document.getElementById("greeting").textContent = greeting;
-  </script>
-</body>
-</html>
+<h1 align="center">Hi 👋, I'm Sarthak Singh</h1>
+<h3 align="center">MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak03dot&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak03dot" /> </p>
 
