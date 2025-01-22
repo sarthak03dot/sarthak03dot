@@ -1,5 +1,4 @@
 ##   This's Sarthak Singh
-* MERN STACK DEVELOPER
   ![Image](https://github.com/user-attachments/assets/c70bb9c5-a2e7-4dff-8aeb-8317ba51bb1e)
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak03dot&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak03dot" /> </p>
