@@ -1,4 +1,4 @@
-##   S A R T H A 
+##   S A R T H A K
 ### About me 
 ![Image](https://github.com/user-attachments/assets/c70bb9c5-a2e7-4dff-8aeb-8317ba51bb1e)
   
