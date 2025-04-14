@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sarthak03dot](https://linktr.ee/sarthak03dot)
 
-- 📝 I regularly write articles on [https://triptales-dot.onrender.com/listings](https://triptales-dot.onrender.com/listings)
+- My first Project - A Travelling Site: [https://triptales-dot.onrender.com/listings](https://triptales-dot.onrender.com/listings)
 
-- 📫 Reach me at [sarthakankshawebjvb@gmail.com](mailto:sarthakankshawebjvb@gmail.com)
+- 📫 Reach me at [sarthak03december@gmail.com](mailto:sarthakankshawebjvb@gmail.com)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cBsA14sWGSyOpcIth40sTbYKuiCT3eqE/view?usp=drive_link](https://drive.google.com/file/d/1cBsA14sWGSyOpcIth40sTbYKuiCT3eqE/view?usp=drive_link)
 
