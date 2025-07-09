@@ -1,4 +1,4 @@
-##   S A R T H A K
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=73F70D&width=435&lines=Hi+👋,+I'm+Sarthak+Singh)](https://git.io/typing-svg)
 ### About me 
 ![Image](https://github.com/user-attachments/assets/c70bb9c5-a2e7-4dff-8aeb-8317ba51bb1e)
   
