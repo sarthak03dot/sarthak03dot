@@ -55,16 +55,16 @@
   
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak03dot&show_icons=true&locale=en" alt="sarthak03dot" /></p>
   
-  <p>
+  <div align="center>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak03dot&theme=tokyonight&hide_border=true" alt="sarthak03dot's GitHub Streak Stats" />
-  </p>
+  </div>
   
    ---
 
 ## 🎭 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak03dot&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak03dot&theme=merko" alt="Activity Graph" />
 </div>
 
 ---
