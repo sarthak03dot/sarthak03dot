@@ -63,7 +63,7 @@
 ## 🎭 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreesriv12&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak03dot&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 ---
