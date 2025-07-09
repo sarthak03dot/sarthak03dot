@@ -16,6 +16,19 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FKXfsvZEBtekCqDdUS1IWJij9PyWXH5v/view?usp=drive_link](https://drive.google.com/file/d/1FKXfsvZEBtekCqDdUS1IWJij9PyWXH5v/view?usp=drive_link)
 
+---
+## 🎯 Competitive Programming Stats
+<div align="center">
+
+### 🏆 CodeForces
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=sarthakwebjvb&theme=dark&show_icons=true" alt="CodeForces Stats"/>
+
+### 💻 LeetCode
+<img src="https://leetcode.card.workers.dev/sarthak03dot?theme=dark&font=baloo&extension=null" alt="LeetCode Stats"/>
+</div>
+---
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sarthak03dot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sarthak03dot" height="30" width="40" /></a>
