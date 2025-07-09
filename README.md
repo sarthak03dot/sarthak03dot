@@ -53,17 +53,17 @@
 ## 📊 GitHub Stats
 <!-- Top Languages -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak03dot&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages by sarthak03dot" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak03dot&show_icons=true&locale=en&layout=compact&theme=merko" alt="Top Languages by sarthak03dot" />
 </p>
 
 <!-- GitHub Stats -->
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak03dot&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats by sarthak03dot" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak03dot&show_icons=true&locale=en&theme=merko" alt="GitHub Stats by sarthak03dot" />
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak03dot&theme=tokyonight&hide_border=true" alt="GitHub Streak by sarthak03dot" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak03dot&theme=merko&hide_border=true" alt="GitHub Streak by sarthak03dot" />
 </p>
 
    ---
