@@ -21,7 +21,7 @@
 <div align="center">
 
 ### 🏆 CodeForces
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=sarthakwebjvb&theme=dark&show_icons=true" alt="CodeForces Stats"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=sarthakankshawebjvb&theme=dark&show_icons=true" alt="CodeForces Stats"/>
 
 ### 💻 LeetCode
 <img src="https://leetcode.card.workers.dev/sarthak03dot?theme=dark&font=baloo&extension=null" alt="LeetCode Stats"/>
