@@ -18,19 +18,19 @@
 
 ---
 ## 🎯 Competitive Programming Stats
-<div style="display: flex; gap: 20px; align-items: center;">
-  <!-- CodeForces Card -->
-  <div>
-    <h3>🏆 CodeForces</h3>
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sarthakankshawebjvb&theme=dark&show_icons=true" alt="CodeForces Stats"/>
-  </div>
+<table>
+  <tr>
+    <td>
+      <h3>🏆 CodeForces</h3>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sarthakankshawebjvb&theme=dark&show_icons=true" alt="CodeForces Stats"/>
+    </td>
+    <td>
+      <h3>💻 LeetCode</h3>
+      <img src="https://leetcode.card.workers.dev/sarthak03dot?theme=dark&font=baloo&extension=null" alt="LeetCode Stats"/>
+    </td>
+  </tr>
+</table>
 
-  <!-- LeetCode Card -->
-  <div>
-    <h3>💻 LeetCode</h3>
-    <img src="https://leetcode.card.workers.dev/sarthak03dot?theme=dark&font=baloo&extension=null" alt="LeetCode Stats"/>
-  </div>
-</div>
 
 ---
 
