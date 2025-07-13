@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=73F70D&width=435&lines=Hi+👋,+I'm+Sarthak+Singh)](https://git.io/typing-svg)
 ### About me 
 <h3> My portfolio 👉 <a href="https://sarthak03dot-portfolio.onrender.com" target="_blank">sarthak03dot: Click Here</a> 👈 </h3>
-
-![Image](https://github.com/user-attachments/assets/c70bb9c5-a2e7-4dff-8aeb-8317ba51bb1e)
+<p align="center">
+  <img align="center" alt="Coding GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+</p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak03dot&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak03dot" /> </p>
 <p align="center" >L O A D I N G . . .
