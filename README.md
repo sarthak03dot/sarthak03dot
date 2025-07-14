@@ -1,13 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=73F70D&width=435&lines=Hi+👋,+I'm+Sarthak+Singh)](https://git.io/typing-svg)
 ### About me 
 <h3> My portfolio 👉 <a href="https://sarthak03dot-portfolio.onrender.com" target="_blank">sarthak03dot: Click Here</a> 👈 </h3>
-<p align="center">
-  <img align="center" alt="Coding GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" height="200px" width="300px"/></td>
+    <td><img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="300"/></td>
+    <td><img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="300px"></td>
+  </tr>
+</table>
+
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak03dot&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak03dot" /> </p>
-<p align="center" >L O A D I N G . . .
-</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak03dot" alt="sarthak03dot" /></a> </p>
 
