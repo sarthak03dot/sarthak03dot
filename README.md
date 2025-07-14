@@ -3,9 +3,9 @@
 <h3> My portfolio 👉 <a href="https://sarthak03dot-portfolio.onrender.com" target="_blank">sarthak03dot: Click Here</a> 👈 </h3>
 <table>
   <tr>
-    <td><img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" height="200px" width="300px"/></td>
-    <td><img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="300"/></td>
-    <td><img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="300px"></td>
+    <td><img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" height="200px" width="250px"/></td>
+    <td><img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="250"/></td>
+    <td><img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="250px"></td>
   </tr>
 </table>
 
