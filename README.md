@@ -59,7 +59,7 @@
 ## 📊 GitHub Stats
 <!-- Top Languages -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak03dot&show_icons=true&locale=en&layout=compact&theme=merko" alt="Top Languages by sarthak03dot" />
+  <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak03dot&show_icons=true&locale=en&layout=compact&theme=merko" alt="Top Languages by sarthak03dot" />
 </p>
 
 <!-- GitHub Stats -->
