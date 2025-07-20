@@ -15,10 +15,8 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=omaccount&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-👨‍💻 **All my projects are available here:** [linktr.ee/sarthak03dot]()
-<h4>Linktree <a href="https://linktr.ee/sarthak03dot" target="_blank>Click Here</a></h4>
 
-
+- Linktree: [Click Here](https://linktr.ee/sarthak03dot)
 - My first Project - A Travelling Site: [https://triptales-dot.onrender.com/listings](https://triptales-dot.onrender.com/listings)
 
 - 📫 Reach me at [sarthak03december@gmail.com](mailto:sarthak03december@gmail.com)
