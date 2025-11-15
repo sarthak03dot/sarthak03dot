@@ -1,8 +1,10 @@
 name: Generate GitHub Contribution Snake
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    # runs every day at 00:00 UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -18,7 +20,6 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: sarthak03dot
-
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
