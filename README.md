@@ -26,6 +26,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak03dot&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak03dot" /> </p>
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthak03dot/sarthak03dot/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthak03dot/sarthak03dot/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sarthak03dot/sarthak03dot/output/github-snake.svg" />
+</picture>
+
+---
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=omaccount&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
@@ -51,13 +60,6 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthak03dot/sarthak03dot/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthak03dot/sarthak03dot/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sarthak03dot/sarthak03dot/output/github-snake.svg" />
-</picture>
-
----
 
 ## 🔗 Connect with Me
 
