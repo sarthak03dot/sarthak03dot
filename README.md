@@ -1,6 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=73F70D&width=435&lines=Hi+👋,+I'm+Sarthak+Singh)](https://git.io/typing-svg)
 
-<h3>💼 My Portfolio 👉 <a href="https://sarthak03dot-portfolio.onrender.com" target="_blank">Click Here</a></h3>
+<h3>💼 My Portfolio 👉 <a href="https://sarthak03dot-portfolio.onrender.com" target="_blank">sarthak03dot: It's Me</a></h3>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthak03dot/sarthak03dot/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthak03dot/sarthak03dot/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sarthak03dot/sarthak03dot/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -26,13 +34,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak03dot&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak03dot" /> </p>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthak03dot/sarthak03dot/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthak03dot/sarthak03dot/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sarthak03dot/sarthak03dot/output/github-snake.svg" />
-</picture>
 
 ---
 <div align="center">
