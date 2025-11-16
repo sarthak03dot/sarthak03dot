@@ -3,6 +3,7 @@
 <h3>💼 My Portfolio 👉 <a href="https://sarthak03dot-portfolio.onrender.com" target="_blank">sarthak03dot: It's Me</a></h3>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak03dot&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak03dot" /> </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthak03dot/sarthak03dot/output/github-snake-dark.svg" />
@@ -32,7 +33,6 @@
   </tr>
 </table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak03dot&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak03dot" /> </p>
 
 
 ---
