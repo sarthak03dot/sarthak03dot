@@ -48,7 +48,6 @@
 <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&amp;logo=mongodb&amp;logoColor=white&amp;color=ffffff" alt="">
 <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&amp;logo=mysql&amp;logoColor=white&amp;color=ffffff" alt="">
 <img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&amp;logo=sqlite&amp;logoColor=white&amp;color=ffffff" alt="">
----
 
 ## 🌟 About Me
 
