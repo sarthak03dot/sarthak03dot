@@ -12,6 +12,43 @@
 </picture>
 
 ---
+<h2 id="skills">Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"></h2>
+<p><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" alt="JavaScript">
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&amp;logo=react" alt="React">
+<img src="https://img.shields.io/badge/-Redux-black?style=flat-square&amp;logo=Redux" alt="Redux">
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&amp;logo=Node.js" alt="Nodejs">
+<img src="https://img.shields.io/badge/-Express-black?style=flat-square&amp;logo=expressjs" alt="Express.js">
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb" alt="MongoDB">
+<img src="https://img.shields.io/badge/-Socket-black?style=flat-square&amp;logo=socket.io" alt="Socket.io">
+<img src="https://img.shields.io/badge/-Next-black?style=flat-square&amp;logo=Next.js" alt="Next.js">
+<img src="https://img.shields.io/badge/-Material_UI-black?style=flat-square&amp;logo=material-ui" alt="Material_UI">
+<img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&amp;logo=bootstrap" alt="Bootstrap">
+<img src="https://img.shields.io/badge/-SCSS-black?style=flat-square&amp;logo=SASS" alt="SCSS">
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&amp;logo=css3" alt="CSS3">
+<img src="https://img.shields.io/badge/-C++-black?style=flat-square&amp;logo=c" alt="C++">
+<img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&amp;logo=heroku" alt="Heroku">
+<img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&amp;logo=netlify" alt="Netlify">
+<img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&amp;logo=vercel" alt="Vercel">
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git" alt="Git">
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&amp;logo=github" alt="GitHub">
+<p><img src="https://img.shields.io/badge/Code-JAVA-informational?style=flat&amp;logo=java&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&amp;logo=c%2B%2B&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&amp;logo=html5&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&amp;logo=css3&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&amp;logo=bootstrap&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&amp;logo=typescript&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-NodeJS-informational?style=flat&amp;logo=Node.js&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&amp;logo=express&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-ReactJS-informational?style=flat&amp;logo=react&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-ReactNative-informational?style=flat&amp;logo=react&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-VueJS-informational?style=flat&amp;logo=vue.js&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-Laravel-informational?style=flat&amp;logo=laravel&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&amp;logo=mongodb&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&amp;logo=mysql&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&amp;logo=sqlite&amp;logoColor=white&amp;color=ffffff" alt="">
+---
 
 ## 🌟 About Me
 
@@ -36,13 +73,6 @@
 
 
 ---
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=omaccount&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</div>
-
----
 
 ## 🎯 Competitive Programming Stats
 
@@ -59,61 +89,34 @@
   </tr>
 </table>
 
----
-
-
-## 🔗 Connect with Me
-
-<p align="left">
-<a href="https://dev.to/sarthak03dot" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-<a href="https://twitter.com/sarthak03dot" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarthak03dot" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/sarthak03dot" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sarthak03dot" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sarthakankshawebjvb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarthak03dot" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sarthak03dot" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth" height="30" width="40" /></a>
+<p>
+   </p><h3> 🤝🏻 Connect with me </h3>
+  <a href="mailto:sarthak03dot@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&amp;body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&amp;logo=GMail&amp;logoColor=white"></a>
+  <a href="https://instagram.com/sarthak03dot"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
+  <a href="https://linkedin.com/in/sarthak03dot"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+<p></p>
+<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 </p>
-
 ---
 
-## 💻 Languages & Tools
-
-<p align="left">
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
+<h2 id="github-stats">Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"></h2>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak03dot&show_icons=true&locale=en&layout=compact&theme=merko" alt="Top Languages by sarthak03dot" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sarthak03dot&show_icons=true&locale=en&theme=merko" alt="GitHub Stats by sarthak03dot" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak03dot&theme=merko&hide_border=true" alt="GitHub Streak by sarthak03dot" />
+    <td>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sarthak03dot&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak03dot&theme=merko&hide_border=true" alt="GitHub Streak by sarthak03dot" />
     </td>
   </tr>
 </table>
+
 
 ---
 
