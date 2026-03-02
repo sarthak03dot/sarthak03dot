@@ -103,18 +103,6 @@
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 </p>
 
-<h2 id="github-stats">Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"></h2>
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sarthak03dot&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-    </td>
-    <!-- <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak03dot&theme=merko&hide_border=true" alt="GitHub Streak by sarthak03dot" />
-    </td> -->
-  </tr>
-</table>
-
 
 ---
 
