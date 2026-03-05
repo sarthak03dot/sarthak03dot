@@ -52,7 +52,7 @@
 ## 🌟 About Me
 
 - 👨‍💻 Full Stack Developer | Competitive Programmer | Tech Enthusiast  
-- 🌐 First Project: [TripTales – A Travelling Site](https://triptales-dot.onrender.com/listings)  
+- 🌐 First Project: [TripTales – A Travelling Site](https://triptales-dot.onrender.com)  
 - 📫 Reach me at: [sarthak03december@gmail.com](mailto:sarthak03december@gmail.com)  
 - 📄 Resume & Experiences: [Click Here](https://drive.google.com/file/d/1FKXfsvZEBtekCqDdUS1IWJij9PyWXH5v/view?usp=drive_link)  
 - 🌐 Linktree: [Click Here](https://linktr.ee/sarthak03dot)  
