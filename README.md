@@ -1,29 +1,30 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=73F70D&width=435&lines=Hi+👋,+I'm+Sarthak+Singh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=73F70D&width=435&lines=Hi+👋,+I'm+Sarthak+Singh;Full+Stack+Developer;AI+%26+SaaS+Enthusiast)](https://git.io/typing-svg)
+
 ```text
-╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+╭─────────────────────────────────────────────────────────────────────────────╮
 │ ========================++++++++++++++++++++++++++++++++++++++++=+===========    @sarthak03dot                                    │
-│ ++++++++==================================++==++++++++++++====+++++++++++++++    ------------------------------------------------------  │
+│ ++++++++==================================++==++++++++++++====+++++++++++++++    Personal Portfolio & GitHub Profile                 │
 │ +++++++=======================++==++++=========+++++==+=+++=+++++++++**++++++                                                            │
 │ =======================+++++==--    .      .  -==++++++++++++++++++++++++++++    OS: .................. Windows, Linux, Mac              │
-│ ========================-.               .   .      .-=--=+++++++++++++++++++    Role: ................ Software Engineer                │
+│ ========================-.               .   .      .-=--=+++++++++++++++++++    Role: ................ Full Stack Developer          │
 │ ==++============++++++-                                 .:=:=++++***+++++++++    Company: ............. @75Way                           │
 │ =+++++====+++++++++++-                          ..         --=+++++++++++++++    Education: ........... B.Tech CSE, Batch 2026           │
-│ ==+====+++++++++**++                        .              ..++++*****##*****    Location: ............ India                            │
+│ ==+====+++++++++**++                        .              ..++++*****##*****    Location: ............ Ghaziabad, India                │
 │ ==++++++++++++++**+                                        .++***##########**                                                            │
-│ ++++++++++++++++++:                                         ++*###########***    . Languages.Code: .... JavaScript, TypeScript, Python   │
-│ ++++++++++++++++++:                  ...  :::::::::.       . *############***    . Languages.Web: ..... HTML, CSS, SQL, JSON             │
-│ +++++++=======++++-            .. .::--::--========--.    :=:****########****    . Frameworks: ........ React, Vite, Node.js, FastAPI    │
-│ ===================          .:::::--=--===+++++====--:   +*****##########***    . Backend: ........... Express.js, Spring Boot          │
-│ ===================:       .::::---===+=+++++++++++==--  *################***    . Databases: ......... MongoDB, PostgreSQL, H2          │
-│ ====================      :-------=-==+++++*****+++==-- +################****    . Tools: ............. Git, GitHub, Docker, Render      │
-│ =======+++++++++++=:     .---:....      :-=+++++++++====#################***+                                                            │
-│ ===+++++++++++*++=::-:   :---:::        .:-===-.       ########***#####***+++    - Links ----------------------------------------------  │
-│ =+++++++++++++**+-::-:-  ----:....  --  ..-++=      .:-**************##******    . Building: .......... AI, SaaS & scalable products     │
-│ =++++++++=++*****+.-..: :---------:::::::-=+*+...  =..+**************#****+++    . GitHub: ............ github.com/sarthak03dot          │
-│ +***###**+**######:-.-- .--=====+++=+======+*++=-::--=+***********######**+++    . Portfolio: ...........                                │
-│ **#######**#######*:--:  :--==++++++++=-=++***++++++++*#******###########**++                https://sarthak03dot-portfolio.onrender.com │
-│ *########**########+---  .:---=++++++=-=====+++++**+++####################*++                                                            │
-│ **######***########**+=   .:--===+++++-..:.....=+++++=###################**++                                                            │
+│ ++++++++++++++++++:                                         ++*###########***    Languages: .......... JavaScript, TypeScript, Python   │
+│ ++++++++++++++++++:                  ...  :::::::::.       . *############***    Frontend: ........... React, Next.js, Vite             │
+│ +++++++=======++++-            .. .::--::--========--.    :=:****########****    Backend: ............ Node.js, Express.js             │
+│ ===================          .:::::--=--===+++++====--:   +*****##########***    Databases: .......... MongoDB, PostgreSQL             │
+│ ===================:       .::::---===+=+++++++++++==--  *################***    Tools: .............. Git, GitHub, Docker, Render     │
+│ ====================      :-------=-==+++++*****+++==-- +################****                                                            │
+│ =======+++++++++++=:     .---:....      :-=+++++++++====#################***+    🎯 Building AI, SaaS & scalable products              │
+│ ===+++++++++++*++=::-:   :---:::        .:-===-.       ########***#####***+++                                                            │
+│ =+++++++++++++**+-::-:-  ----:....  --  ..-++=      .:-**************##******                                                            │
+│ =++++++++=++*****+.-..: :---------:::::::-=+*+...  =..+**************#****+++    Portfolio: https://sarthak03dot-portfolio.onrender.com │
+│ +***###**+**######:-.-- .--=====+++=+======+*++=-::--=+***********######**+++                                                            │
+│ **#######**#######*:--:  :--==++++++++=-=++***++++++++*###################*++                                                            │
+│ *########**########+---  .:---=++++++=-=====+++++**+++###################**++                                                            │
+│ **######***########**+=   .:--===+++++-..:.....=+++==###################**++                                                            │
 │ **######****######****=     .:-===-:-:.    .  .=++==-+********##########**+++                                                            │ 
 │ **#####**+**#####***+*+:      :--    ..  .:-.  ..:=:.*******############**+++                                                            │
 │ +**####**++**####***+*+:       :. :::..:----::    . +******#############**+++                                                            │
@@ -45,12 +46,12 @@
 │ *******************************+++++++=-.   .  ************-.................                                                            │
 │ **********************************+++++-:      =************=:...............                                                            │
 │ *++*******++*************************+++: :    :*************=--::::::.......                                                            │
-╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
-<!-- <h3>💼 My Portfolio 👉 <a href="https://sarthak03dot-portfolio.onrender.com" target="_blank">sarthak03dot: It's Me</a></h3> -->
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak03dot&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak03dot" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarthak03dot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthak03dot/sarthak03dot/output/github-snake-dark.svg" />
@@ -59,102 +60,135 @@
 </picture>
 
 ---
-<h2 id="skills">Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"></h2>
-<p><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" alt="JavaScript">
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&amp;logo=react" alt="React">
-<img src="https://img.shields.io/badge/-Redux-black?style=flat-square&amp;logo=Redux" alt="Redux">
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&amp;logo=Node.js" alt="Nodejs">
-<img src="https://img.shields.io/badge/-Express-black?style=flat-square&amp;logo=expressjs" alt="Express.js">
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb" alt="MongoDB">
-<img src="https://img.shields.io/badge/-Socket-black?style=flat-square&amp;logo=socket.io" alt="Socket.io">
-<img src="https://img.shields.io/badge/-Next-black?style=flat-square&amp;logo=Next.js" alt="Next.js">
-<img src="https://img.shields.io/badge/-Material_UI-black?style=flat-square&amp;logo=material-ui" alt="Material_UI">
-<img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&amp;logo=bootstrap" alt="Bootstrap">
-<img src="https://img.shields.io/badge/-SCSS-black?style=flat-square&amp;logo=SASS" alt="SCSS">
-<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&amp;logo=css3" alt="CSS3">
-<img src="https://img.shields.io/badge/-C++-black?style=flat-square&amp;logo=c" alt="C++">
-<img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&amp;logo=heroku" alt="Heroku">
-<img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&amp;logo=netlify" alt="Netlify">
-<img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&amp;logo=vercel" alt="Vercel">
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git" alt="Git">
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&amp;logo=github" alt="GitHub">
-<p><img src="https://img.shields.io/badge/Code-JAVA-informational?style=flat&amp;logo=java&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&amp;logo=c%2B%2B&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&amp;logo=html5&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&amp;logo=css3&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&amp;logo=bootstrap&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&amp;logo=typescript&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-NodeJS-informational?style=flat&amp;logo=Node.js&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&amp;logo=express&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-ReactJS-informational?style=flat&amp;logo=react&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-ReactNative-informational?style=flat&amp;logo=react&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-VueJS-informational?style=flat&amp;logo=vue.js&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-Laravel-informational?style=flat&amp;logo=laravel&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&amp;logo=mongodb&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&amp;logo=mysql&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&amp;logo=sqlite&amp;logoColor=white&amp;color=ffffff" alt="">
 
 ## 🌟 About Me
 
-- 👨‍💻 Full Stack Developer | Competitive Programmer | Tech Enthusiast  
-- 🌐 First Project: [TripTales – A Travelling Site](https://triptales-dot.onrender.com)  
-- 📫 Reach me at: [sarthak03december@gmail.com](mailto:sarthak03december@gmail.com)  
-- 📄 Resume & Experiences: [Click Here](https://drive.google.com/file/d/1FKXfsvZEBtekCqDdUS1IWJij9PyWXH5v/view?usp=drive_link)  
-- 🌐 Linktree: [Click Here](https://linktr.ee/sarthak03dot)  
+I'm a passionate **Full Stack Developer** and competitive programmer building scalable **AI and SaaS products**. I love turning complex problems into elegant solutions and contributing to open-source projects.
+
+- 👨‍💻 **Role:** Software Engineer @ [75Way](https://75way.com)
+- 🎓 **Education:** B.Tech in Computer Science & Engineering (Batch 2026)
+- 📍 **Location:** Ghaziabad, India
+- 🚀 **Focus:** Building AI-powered SaaS applications and scalable web solutions
+- 🏗️ **First Project:** [TripTales](https://triptales-dot.onrender.com) – A full-stack traveling & social platform
+- 📫 **Email:** [sarthak03december@gmail.com](mailto:sarthak03december@gmail.com)
 
 ---
 
-## 🎨 Fun & Creative
+## 💼 Tech Stack
+
+### **Frontend Development**
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+![Material-UI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![Spring%20Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring-boot)
+
+### **Databases & APIs**
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
+
+### **DevOps & Tools**
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+
+---
+
+## 🎯 Competitive Programming
 
 <table>
   <tr>
-    <td><img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" height="200px" width="250px"/></td>
-    <td><img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="250"/></td>
-    <td><img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="250px"></td>
-  </tr>
-</table>
-
-
-
----
-
-## 🎯 Competitive Programming Stats
-
-<table>
-  <tr>
-    <td>
-      <h3>🏆 Codeforces</h3>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sarthakankshawebjvb&theme=dark&show_icons=true" alt="CodeForces Stats"/>
+    <td align="center">
+      <h4>🏆 Codeforces</h4>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sarthakankshawebjvb&theme=dark&show_icons=true" alt="CodeForces Stats" width="280"/>
     </td>
-    <td>
-      <h3>💻 LeetCode</h3>
-      <img src="https://leetcode.card.workers.dev/sarthak03dot?theme=dark&font=baloo&extension=null" alt="LeetCode Stats"/>
+    <td align="center">
+      <h4>💻 LeetCode</h4>
+      <img src="https://leetcode.card.workers.dev/sarthak03dot?theme=dark&font=baloo&extension=null" alt="LeetCode Stats" width="280"/>
     </td>
   </tr>
 </table>
 
-<p>
-   </p><h3> 🤝🏻 Connect with me </h3>
-  <a href="mailto:sarthak03dot@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&amp;body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&amp;logo=GMail&amp;logoColor=white"></a>
-  <a href="https://instagram.com/sarthak03dot"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
-  <a href="https://linkedin.com/in/sarthak03dot"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
-<p></p>
-<br>
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
-</p>
+---
 
+## 🎨 Featured Projects
+
+### [TripTales](https://triptales-dot.onrender.com)
+A full-stack social platform for travelers to share experiences and discover destinations.
+- **Tech:** React, Node.js, Express, MongoDB, Socket.io
+- **Features:** Real-time messaging, image uploads, user profiles, travel feeds
 
 ---
 
-## 🎭 Coding Activity
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak03dot&theme=merko" alt="Activity Graph" />
 </div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:sarthak03december@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/sarthak03dot" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sarthak03dot" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/sarthak03dot" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linktr.ee/sarthak03dot" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B.svg?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
+  </a>
+</p>
+
+---
+
+## 📚 Additional Links
+
+- 📄 **[Resume](https://drive.google.com/file/d/1FKXfsvZEBtekCqDdUS1IWJij9PyWXH5v/view?usp=drive_link)** – Check out my professional experience
+- 🌐 **[Portfolio](https://sarthak03dot-portfolio.onrender.com)** – View my projects and work
+- 🔗 **[Linktree](https://linktr.ee/sarthak03dot)** – All my links in one place
+
+---
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="80">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="80">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="80">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="80">
+  <br><br>
+  <sub>Made with ❤️ by Sarthak Singh</sub>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=14&duration=4000&pause=1000&color=73F70D&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together+🚀" alt="Closing message" />
+</p>
