@@ -1,26 +1,28 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=73F70D&width=435&lines=Hi+👋,+I'm+Sarthak+Singh;Full+Stack+Developer;AI+%26+SaaS+Enthusiast)](https://git.io/typing-svg)
 
-```text
-╭──────────────────────────────────────────────────────────────────╮
-│  @sarthak03dot - Full Stack Developer | AI & SaaS Enthusiast    │
-├──────────────────────────────────────────────────────────────────┤
-│  OS: ..................... Windows, Linux, Mac                   │
-│  Role: ................... Software Engineer                     │
-│  Company: ................ @75Way                                │
-│  Education: .............. B.Tech CSE, Batch 2026               │
-│  Location: ............... Ghaziabad, India                      │
-├──────────────────────────────────────────────────────────────────┤
-│  Languages: .............. JavaScript, TypeScript, Python        │
-│  Frontend: ............... React, Next.js, Vite, Tailwind       │
-│  Backend: ................ Node.js, Express.js, FastAPI         │
-│  Databases: .............. MongoDB, PostgreSQL                   │
-│  Tools: .................. Git, GitHub, Docker, Render           │
-├──────────────────────────────────────────────────────────────────┤
-│  🎯 Building AI, SaaS & scalable products                        │
-│  🌐 Portfolio: https://sarthak03dot-portfolio.onrender.com       │
-│  📫 Email: sarthak03december@gmail.com                           │
-╰──────────────────────────────────────────────────────────────────╯
-```
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/137082483?v=4" alt="Sarthak Singh" width="150" style="border-radius: 50%; border: 3px solid #73F70D;"/>
+  
+  ## Sarthak Singh
+  **@sarthak03dot** | Full Stack Developer | AI & SaaS Enthusiast
+  
+  ```
+  ╭──────────────────────────────────────────────────────────────────╮
+  │  🌍 Location: Ghaziabad, India  │  💼 Company: @75Way          │
+  │  🎓 Education: B.Tech CSE 2026  │  📍 Role: Software Engineer   │
+  ├──────────────────────────────────────────────────────────────────┤
+  │  💻 Languages:     JavaScript, TypeScript, Python               │
+  │  🎨 Frontend:      React, Next.js, Vite, Tailwind CSS          │
+  │  🔧 Backend:       Node.js, Express.js, FastAPI                │
+  │  🗄️  Databases:    MongoDB, PostgreSQL                          │
+  │  🛠️  Tools:        Git, GitHub, Docker, Render                 │
+  ├──────────────────────────────────────────────────────────────────┤
+  │  🚀 Building AI-powered SaaS products & scalable solutions      │
+  │  🌐 Portfolio: https://sarthak03dot-portfolio.onrender.com      │
+  │  📧 Email: sarthak03december@gmail.com                          │
+  ╰──────────────────────────────────────────────────────────────────╯
+  ```
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarthak03dot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
